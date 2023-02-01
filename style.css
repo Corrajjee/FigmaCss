@@ -37,6 +37,10 @@
     padding: 0 15px ;
 }
 
+body{
+    background-color: antiquewhite;
+}
+
 header {
     background-color: #EEEFF1;
     padding: 57px 0 0 0;
